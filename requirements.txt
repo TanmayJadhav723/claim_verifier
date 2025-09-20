@@ -1,0 +1,8 @@
+fastapi
+uvicorn[standard]
+duckduckgo_search
+requests
+beautifulsoup4
+transformers
+torch
+python-dotenv
